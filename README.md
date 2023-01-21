@@ -57,3 +57,7 @@ Want to make a larger display or use different filament diameters? Try customizi
 1. Once the render is complete, you can directly export an STL of the part by either pressing **F7** or selecting **File**, hovering over **Export**, and choosing **Export as STL...**.
 
 :exclamation: While you can make a 16x8 or larger display from multiple 8x8 matrices, I recommend against it. The display becomes exponentially harder to assemble with each additional row/column. Additional fibers also make the connection between the mount and display far less flexible.
+
+## Related works
+
+I'm not the first to design a fiberoptic DMD. Check out these other cool designs by [elliotmade](https://youtu.be/e9nGw1BpO-Y) and [Dr. Tõnis Gadgets](https://youtu.be/YSTuFIqyf5o)!
