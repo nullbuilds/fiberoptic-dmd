@@ -1,0 +1,5 @@
+# Ignore generated files
+*.obj
+*.3mf
+*.stl
+*.gcode
